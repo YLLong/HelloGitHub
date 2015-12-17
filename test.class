@@ -1,0 +1,6 @@
+public class HelloGit {
+	public static main(String[] args) {
+		System.out.println("Hello GitHub!");
+		return 0;
+	}
+}
